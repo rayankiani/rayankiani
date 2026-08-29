@@ -5,29 +5,29 @@
 
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:0d2137&height=280&section=header&text=RAYAN%20ALI%20KAYANI&fontSize=42&fontColor=e6edf3&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Creative%20Developer%20%C2%B7%20AI%20Enthusiast&descSize=16&descAlignY=58&descAlign=50" alt="Rayan Ali Kayani — Full-Stack Engineer, Creative Developer, AI Enthusiast" width="100%" />
-
-<!-- TYPING IDENTITY -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3800&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&height=36&lines=Building+modern+digital+experiences.;Engineering+with+code%2C+design+%26+intelligence.;Performance+%C2%B7+Accessibility+%C2%B7+Motion+%C2%B7+Craft." alt="Animated typing: Building modern digital experiences with code, design and intelligence" />
-
-<br/><br/>
-
-<!-- TERMINAL HERO -->
-<img src="./assets/terminal-hero.png" alt="Terminal interface showing developer identity and focus areas" width="92%" />
+<!-- ANIMATED HERO BANNER -->
+<img src="./assets/hero-banner.svg" alt="Rayan Ali Kayani — Full-Stack Engineer, Creative Developer, AI Pioneer" width="100%" />
 
 <br/>
 
-<!-- CTA BADGES -->
+<!-- DYNAMIC TYPING IDENTITY -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&height=40&lines=⚡+Architecting+modern+digital+experiences+where+code%2C+design+%26+AI+converge.;💎+Engineering+precision+%C2%B7+60fps+Motion+%C2%B7+Scalable+Architecture.;🚀+Building+high-performance+web+applications+with+React%2C+TypeScript+%26+Cloud." alt="Animated typing: Building modern digital experiences" />
+
+<br/><br/>
+
+<!-- SOCIAL CTA BADGES -->
 <a href="https://github.com/rayankiani" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/rayankayani/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
 </a>
+&nbsp;
 <a href="https://rayankayani.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" />
 </a>
+&nbsp;
 <a href="mailto:rayankiani7@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
 </a>
