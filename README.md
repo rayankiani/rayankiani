@@ -522,6 +522,11 @@ Whether building institutional platforms, cloud-hosted SaaS tools, cybersecurity
 
 <br/>
 
+<!-- ANIMATED COMMIT SNAKE GRAPH -->
+<img src="./assets/contribution-snake.svg" alt="Animated Contribution Snake — Rayan Ali Kayani" width="100%" />
+
+<br/><br/>
+
 <table>
   <tr>
     <td width="50%" align="center" valign="middle">
@@ -543,15 +548,11 @@ Whether building institutional platforms, cloud-hosted SaaS tools, cybersecurity
     </td>
     <td width="50%" align="center" valign="middle">
       <br/>
-      <img src="./assets/github-stats.svg" alt="Core Repositories & Contributions" width="100%" />
+      <img src="./assets/activity-graph.svg" alt="Contribution Activity Graph" width="100%" />
       <br/><br/>
     </td>
   </tr>
 </table>
-
-<br/>
-
-<img src="./assets/activity-graph.svg" alt="GitHub Contribution Activity Graph" width="100%" />
 
 </div>
 

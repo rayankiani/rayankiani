@@ -2,13 +2,18 @@
   <rect x="0.5" y="0.5" rx="10" width="494" height="214" fill="#0D1117" stroke="#30363D"/>
   
   <g transform="translate(25, 35)">
-    <text x="0" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="18" fill="#58A6FF">Rayan's GitHub Statistics</text>
+    <text x="0" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="18" fill="#58A6FF">
+      Rayan's GitHub Statistics
+      <animate attributeName="fill" values="#58A6FF;#3FB950;#58A6FF" dur="6s" repeatCount="indefinite" />
+    </text>
   </g>
   
   <g transform="translate(25, 65)">
     <!-- Total Stars -->
     <g transform="translate(0, 0)">
-      <path fill="#58A6FF" d="M8 0L10.472 5.008L16 5.816L12 9.712L12.944 15.216L8 12.616L3.056 15.216L4 9.712L0 5.816L5.528 5.008L8 0Z"/>
+      <path fill="#58A6FF" d="M8 0L10.472 5.008L16 5.816L12 9.712L12.944 15.216L8 12.616L3.056 15.216L4 9.712L0 5.816L5.528 5.008L8 0Z">
+        <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite" />
+      </path>
       <text x="25" y="12" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="14" fill="#C9D1D9">Total Stars Earned:</text>
       <text x="180" y="12" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="14" fill="#58A6FF">148+</text>
     </g>
@@ -42,10 +47,15 @@
     </g>
   </g>
   
-  <!-- Rank Circle -->
+  <!-- Animated Rank Circle -->
   <g transform="translate(390, 115)">
-    <circle cx="0" cy="0" r="42" fill="#161B22" stroke="#3FB950" stroke-width="4"/>
+    <circle cx="0" cy="0" r="42" fill="#161B22" stroke="#3FB950" stroke-width="4">
+      <animate attributeName="stroke" values="#3FB950;#58A6FF;#8E44AD;#3FB950" dur="4s" repeatCount="indefinite" />
+    </circle>
     <text x="0" y="-8" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="13" fill="#8B949E">RANK</text>
-    <text x="0" y="20" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="28" fill="#3FB950">A+</text>
+    <text x="0" y="20" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="28" fill="#3FB950">
+      A+
+      <animate attributeName="fill" values="#3FB950;#58A6FF;#3FB950" dur="3s" repeatCount="indefinite" />
+    </text>
   </g>
 </svg>
