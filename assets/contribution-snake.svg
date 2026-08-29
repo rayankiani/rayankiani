@@ -7,7 +7,7 @@
       151 contributions in the last year
     </text>
     <text x="930" y="0" text-anchor="end" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="12" fill="#58A6FF">
-      ● Real-Time Contribution Tracking Snake
+      ● Real-Time Contribution Weaving Snake
     </text>
   </g>
 
@@ -55,41 +55,48 @@
     <!-- Row 6: Sat -->
     <rect x="0" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="15" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="30" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="45" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="60" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="75" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="90" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="105" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="120" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="135" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="150" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="165" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="180" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="195" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="210" y="70" width="11" height="11" rx="2" fill="#0E4429"/><rect x="225" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="240" y="70" width="11" height="11" rx="2" fill="#006D32"/><rect x="255" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="270" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="285" y="70" width="11" height="11" rx="2" fill="#26A641"/><rect x="300" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="315" y="70" width="11" height="11" rx="2" fill="#006D32"/><rect x="330" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="345" y="70" width="11" height="11" rx="2" fill="#26A641"/><rect x="360" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="375" y="70" width="11" height="11" rx="2" fill="#39D353"/><rect x="390" y="70" width="11" height="11" rx="2" fill="#26A641"/><rect x="405" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="420" y="70" width="11" height="11" rx="2" fill="#006D32"/><rect x="435" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="450" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="465" y="70" width="11" height="11" rx="2" fill="#26A641"/><rect x="480" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="495" y="70" width="11" height="11" rx="2" fill="#39D353"/><rect x="510" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="525" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="540" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="555" y="70" width="11" height="11" rx="2" fill="#26A641"/><rect x="570" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="585" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="600" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="615" y="70" width="11" height="11" rx="2" fill="#006D32"/><rect x="630" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="645" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="660" y="70" width="11" height="11" rx="2" fill="#26A641"/><rect x="675" y="70" width="11" height="11" rx="2" fill="#39D353"/><rect x="690" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="705" y="70" width="11" height="11" rx="2" fill="#26A641"/><rect x="720" y="70" width="11" height="11" rx="2" fill="#39D353"/><rect x="735" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="750" y="70" width="11" height="11" rx="2" fill="#39D353"/>
 
-    <!-- TARGETED CONTRIBUTION TRACKING PATH -->
-    <path id="contributionPath" d="M 65 19 L 65 61 L 80 61 L 80 19 L 185 19 L 215 5 L 215 75 L 245 75 L 245 5 L 290 5 L 290 75 L 320 75 L 320 5 L 350 5 L 350 75 L 380 75 L 380 5 L 395 5 L 395 75 L 425 75 L 425 5 L 470 5 L 470 75 L 500 75 L 500 5 L 560 5 L 560 75 L 620 75 L 620 5 L 665 5 L 665 75 L 680 75 L 680 5 L 710 5 L 710 75 L 725 75 L 725 5 L 755 5 L 755 75 Z" fill="none" stroke="none"/>
+    <!-- 90-DEGREE ZIG-ZAG WEAVING CONTRIBUTION SNAKE PATH -->
+    <path id="contributionPath" d="M 5 5 L 65 5 L 65 75 L 80 75 L 80 5 L 215 5 L 215 75 L 245 75 L 245 5 L 290 5 L 290 75 L 320 75 L 320 5 L 350 5 L 350 75 L 380 75 L 380 5 L 395 5 L 395 75 L 425 75 L 425 5 L 470 5 L 470 75 L 500 75 L 500 5 L 560 5 L 560 75 L 620 75 L 620 5 L 665 5 L 665 75 L 680 75 L 680 5 L 710 5 L 710 75 L 725 75 L 725 5 L 755 5 L 755 75 L 755 85 L 5 85 Z" fill="none" stroke="none"/>
 
     <g>
-      <!-- Glowing Cyber Head -->
-      <circle r="6" fill="#58A6FF" stroke="#FFFFFF" stroke-width="1.5">
-        <animateMotion dur="14s" repeatCount="indefinite" rotate="auto">
+      <!-- Glowing Cyber Head with 90° Direction Rotation -->
+      <circle r="5.5" fill="#58A6FF" stroke="#FFFFFF" stroke-width="1.5">
+        <animateMotion dur="16s" repeatCount="indefinite" rotate="auto">
           <mpath href="#contributionPath"/>
         </animateMotion>
       </circle>
 
       <!-- Body Dot 1 -->
-      <circle r="5" fill="#39D353" opacity="0.95">
-        <animateMotion dur="14s" repeatCount="indefinite" rotate="auto" begin="-0.15s">
+      <circle r="4.5" fill="#39D353" opacity="0.95">
+        <animateMotion dur="16s" repeatCount="indefinite" rotate="auto" begin="-0.20s">
           <mpath href="#contributionPath"/>
         </animateMotion>
       </circle>
 
       <!-- Body Dot 2 -->
-      <circle r="4.5" fill="#26A641" opacity="0.85">
-        <animateMotion dur="14s" repeatCount="indefinite" rotate="auto" begin="-0.30s">
+      <circle r="4" fill="#26A641" opacity="0.85">
+        <animateMotion dur="16s" repeatCount="indefinite" rotate="auto" begin="-0.40s">
           <mpath href="#contributionPath"/>
         </animateMotion>
       </circle>
 
       <!-- Body Dot 3 -->
-      <circle r="4" fill="#006D32" opacity="0.75">
-        <animateMotion dur="14s" repeatCount="indefinite" rotate="auto" begin="-0.45s">
+      <circle r="3.5" fill="#006D32" opacity="0.75">
+        <animateMotion dur="16s" repeatCount="indefinite" rotate="auto" begin="-0.60s">
+          <mpath href="#contributionPath"/>
+        </animateMotion>
+      </circle>
+
+      <!-- Body Dot 4 -->
+      <circle r="3" fill="#0E4429" opacity="0.65">
+        <animateMotion dur="16s" repeatCount="indefinite" rotate="auto" begin="-0.80s">
           <mpath href="#contributionPath"/>
         </animateMotion>
       </circle>
 
       <!-- Tail Dot -->
-      <circle r="3" fill="#0E4429" opacity="0.6">
-        <animateMotion dur="14s" repeatCount="indefinite" rotate="auto" begin="-0.60s">
+      <circle r="2.5" fill="#161B22" opacity="0.5">
+        <animateMotion dur="16s" repeatCount="indefinite" rotate="auto" begin="-1.00s">
           <mpath href="#contributionPath"/>
         </animateMotion>
       </circle>
