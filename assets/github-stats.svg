@@ -1,60 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="215" viewBox="0 0 495 215" fill="none">
-  <style>
-    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58A6FF; }
-    .stat-label { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D1D9; }
-    .stat-number { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58A6FF; }
-    .rank-title { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8B949E; }
-    .rank-text { font: 700 28px 'Segoe UI', Ubuntu, Sans-Serif; fill: #3FB950; }
-    .icon { fill: #58A6FF; }
-  </style>
-  
   <rect x="0.5" y="0.5" rx="10" width="494" height="214" fill="#0D1117" stroke="#30363D"/>
   
   <g transform="translate(25, 35)">
-    <text x="0" y="0" class="header">Rayan's GitHub Statistics</text>
+    <text x="0" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="18" fill="#58A6FF">Rayan's GitHub Statistics</text>
   </g>
   
   <g transform="translate(25, 65)">
     <!-- Total Stars -->
     <g transform="translate(0, 0)">
-      <path class="icon" d="M8 0L10.472 5.008L16 5.816L12 9.712L12.944 15.216L8 12.616L3.056 15.216L4 9.712L0 5.816L5.528 5.008L8 0Z"/>
-      <text x="25" y="12" class="stat-label">Total Stars Earned:</text>
-      <text x="180" y="12" class="stat-number">148+</text>
+      <path fill="#58A6FF" d="M8 0L10.472 5.008L16 5.816L12 9.712L12.944 15.216L8 12.616L3.056 15.216L4 9.712L0 5.816L5.528 5.008L8 0Z"/>
+      <text x="25" y="12" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="14" fill="#C9D1D9">Total Stars Earned:</text>
+      <text x="180" y="12" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="14" fill="#58A6FF">148+</text>
     </g>
     
     <!-- Commits -->
     <g transform="translate(0, 28)">
-      <path class="icon" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5c0 .199.079.39.22.53l2.25 2.25a.75.75 0 101.06-1.06L8.5 8.19V4.75z"/>
-      <text x="25" y="12" class="stat-label">Total Commits (2026):</text>
-      <text x="180" y="12" class="stat-number">890+</text>
+      <path fill="#58A6FF" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5c0 .199.079.39.22.53l2.25 2.25a.75.75 0 101.06-1.06L8.5 8.19V4.75z"/>
+      <text x="25" y="12" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="14" fill="#C9D1D9">Total Commits (2026):</text>
+      <text x="180" y="12" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="14" fill="#58A6FF">890+</text>
     </g>
     
     <!-- PRs -->
     <g transform="translate(0, 56)">
-      <path class="icon" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25z"/>
-      <text x="25" y="12" class="stat-label">Total Pull Requests:</text>
-      <text x="180" y="12" class="stat-number">74</text>
+      <path fill="#58A6FF" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25z"/>
+      <text x="25" y="12" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="14" fill="#C9D1D9">Total Pull Requests:</text>
+      <text x="180" y="12" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="14" fill="#58A6FF">74</text>
     </g>
     
     <!-- Issues -->
     <g transform="translate(0, 84)">
-      <path class="icon" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
-      <text x="25" y="12" class="stat-label">Total Issues Solved:</text>
-      <text x="180" y="12" class="stat-number">32</text>
+      <path fill="#58A6FF" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
+      <text x="25" y="12" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="14" fill="#C9D1D9">Total Issues Solved:</text>
+      <text x="180" y="12" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="14" fill="#58A6FF">32</text>
     </g>
     
     <!-- Contributed Repos -->
     <g transform="translate(0, 112)">
-      <path class="icon" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.71.29L2.5 12.06v-9.56z"/>
-      <text x="25" y="12" class="stat-label">Contributed Repositories:</text>
-      <text x="180" y="12" class="stat-number">18</text>
+      <path fill="#58A6FF" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.71.29L2.5 12.06v-9.56z"/>
+      <text x="25" y="12" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="14" fill="#C9D1D9">Contributed Repositories:</text>
+      <text x="180" y="12" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="14" fill="#58A6FF">18</text>
     </g>
   </g>
   
   <!-- Rank Circle -->
   <g transform="translate(390, 115)">
     <circle cx="0" cy="0" r="42" fill="#161B22" stroke="#3FB950" stroke-width="4"/>
-    <text x="0" y="-8" text-anchor="middle" class="rank-title">RANK</text>
-    <text x="0" y="20" text-anchor="middle" class="rank-text">A+</text>
+    <text x="0" y="-8" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="13" fill="#8B949E">RANK</text>
+    <text x="0" y="20" text-anchor="middle" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="28" fill="#3FB950">A+</text>
   </g>
 </svg>

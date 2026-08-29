@@ -1,20 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="990" height="215" viewBox="0 0 990 215" fill="none">
-  <defs>
-    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.4"/>
-      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0.0"/>
-    </linearGradient>
-  </defs>
-
-  <style>
-    .title { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #58A6FF; }
-    .axis-label { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8B949E; }
-  </style>
-
   <rect x="0.5" y="0.5" rx="10" width="989" height="214" fill="#0D1117" stroke="#30363D"/>
 
   <g transform="translate(30, 35)">
-    <text x="0" y="0" class="title">Contribution & Commit Activity Graph</text>
+    <text x="0" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="18" fill="#58A6FF">Contribution &amp; Commit Activity Graph</text>
   </g>
 
   <g transform="translate(30, 55)">
@@ -23,11 +11,11 @@
     <line x1="0" y1="70" x2="930" y2="70" stroke="#21262D" stroke-dasharray="4"/>
     <line x1="0" y1="110" x2="930" y2="110" stroke="#21262D" stroke-dasharray="4"/>
 
-    <!-- Area chart fill -->
-    <path d="M0,110 Q116,90 232,50 T465,30 T697,60 T930,20 L930,130 L0,130 Z" fill="url(#glow)"/>
+    <!-- Area chart fill polygon -->
+    <polygon points="0,110 132,85 265,45 397,35 530,30 662,65 795,40 930,20 930,130 0,130" fill="#58A6FF" fill-opacity="0.15"/>
 
     <!-- Line Chart stroke -->
-    <path d="M0,110 Q116,90 232,50 T465,30 T697,60 T930,20" fill="none" stroke="#58A6FF" stroke-width="3"/>
+    <polyline points="0,110 132,85 265,45 397,35 530,30 662,65 795,40 930,20" fill="none" stroke="#58A6FF" stroke-width="3"/>
 
     <!-- Glowing points -->
     <circle cx="0" cy="110" r="5" fill="#58A6FF"/>
@@ -40,13 +28,13 @@
     <circle cx="930" cy="20" r="6" fill="#3FB950"/>
 
     <!-- Month Labels -->
-    <text x="0" y="148" class="axis-label" text-anchor="middle">Jan</text>
-    <text x="132" y="148" class="axis-label" text-anchor="middle">Feb</text>
-    <text x="265" y="148" class="axis-label" text-anchor="middle">Mar</text>
-    <text x="397" y="148" class="axis-label" text-anchor="middle">Apr</text>
-    <text x="530" y="148" class="axis-label" text-anchor="middle">May</text>
-    <text x="662" y="148" class="axis-label" text-anchor="middle">Jun</text>
-    <text x="795" y="148" class="axis-label" text-anchor="middle">Jul</text>
-    <text x="930" y="148" class="axis-label" text-anchor="middle">Aug</text>
+    <text x="0" y="148" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12" fill="#8B949E" text-anchor="middle">Jan</text>
+    <text x="132" y="148" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12" fill="#8B949E" text-anchor="middle">Feb</text>
+    <text x="265" y="148" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12" fill="#8B949E" text-anchor="middle">Mar</text>
+    <text x="397" y="148" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12" fill="#8B949E" text-anchor="middle">Apr</text>
+    <text x="530" y="148" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12" fill="#8B949E" text-anchor="middle">May</text>
+    <text x="662" y="148" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12" fill="#8B949E" text-anchor="middle">Jun</text>
+    <text x="795" y="148" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12" fill="#8B949E" text-anchor="middle">Jul</text>
+    <text x="930" y="148" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12" fill="#8B949E" text-anchor="middle">Aug</text>
   </g>
 </svg>

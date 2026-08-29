@@ -19,17 +19,17 @@
 <br/>
 
 <!-- CTA BADGES -->
-<a href="https://github.com/Rayan-Ali-Kayani" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/rayankiani" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile — replace link" />
+<a href="https://www.linkedin.com/in/rayankayani/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
 </a>
-<a href="https://YOUR-PORTFOLIO-URL.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website — replace link" />
+<a href="https://rayankayani.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" />
 </a>
-<a href="mailto:YOUR-EMAIL@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact — replace address" />
+<a href="mailto:rayankiani7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
 </a>
 
 </div>
@@ -562,40 +562,76 @@ Whether building institutional platforms, cloud-hosted SaaS tools, cybersecurity
 <br/>
 
 <!-- CURRENTLY EXPLORING -->
-## ◈ Currently Exploring
+<div align="center">
+
+## ◈ Currently Exploring & Active Growth
+
+<sub>Emerging paradigms, advanced patterns, and continuous domain expansion.</sub>
+
+</div>
+
+<br/>
 
 <table>
-<tr>
-<td align="center" width="33%">
-<b>Advanced React Architecture</b><br/>
-<small>Patterns, composition & scalable state</small>
-</td>
-<td align="center" width="33%">
-<b>TypeScript Depth</b><br/>
-<small>Type-safe systems at scale</small>
-</td>
-<td align="center" width="33%">
-<b>AI Integration</b><br/>
-<small>LLMs & agentic workflows in products</small>
-</td>
-</tr>
-<tr>
-<td align="center" width="33%">
-<b>Cloud Infrastructure</b><br/>
-<small>Firebase · GCP · Cloud Run</small>
-</td>
-<td align="center" width="33%">
-<b>Performance Engineering</b><br/>
-<small>Core Web Vitals & optimization</small>
-</td>
-<td align="center" width="33%">
-<b>Advanced UI/UX</b><br/>
-<small>Motion design & interaction patterns</small>
-</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/REACT-ARCHITECTURE-58A6FF?style=for-the-badge&logo=react&logoColor=white" alt="React Architecture" />
+      <br/><br/>
+      <b>Advanced React & Next.js</b>
+      <br/><br/>
+      <p align="center"><small>Server components, custom hooks, micro-frontends &amp; scalable state patterns.</small></p>
+      <br/>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/TYPESCRIPT-DEPTH-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Depth" />
+      <br/><br/>
+      <b>TypeScript Depth</b>
+      <br/><br/>
+      <p align="center"><small>Generics, type-safe API contracts, utility types &amp; strict system design.</small></p>
+      <br/>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/AI-INTEGRATION-8E44AD?style=for-the-badge&logo=openai&logoColor=white" alt="AI Integration" />
+      <br/><br/>
+      <b>AI & Agentic Workflows</b>
+      <br/><br/>
+      <p align="center"><small>LLM integrations, agentic UX, function calling &amp; AI-driven UI features.</small></p>
+      <br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/CLOUD-INFRA-238636?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud Infra" />
+      <br/><br/>
+      <b>Cloud Infrastructure</b>
+      <br/><br/>
+      <p align="center"><small>Firebase, GCP, Docker containerization &amp; serverless deployments.</small></p>
+      <br/>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/PERFORMANCE-ENGINEERING-D35400?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Performance Engineering" />
+      <br/><br/>
+      <b>Performance Engineering</b>
+      <br/><br/>
+      <p align="center"><small>Core Web Vitals, bundle optimization, memory leaks &amp; 60fps rendering.</small></p>
+      <br/>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/CREATIVE-UI%2FUX-E67E22?style=for-the-badge&logo=greensock&logoColor=white" alt="Creative UI/UX" />
+      <br/><br/>
+      <b>Creative Motion & 3D</b>
+      <br/><br/>
+      <p align="center"><small>GSAP timeline animations, Three.js 3D elements &amp; intuitive interaction design.</small></p>
+      <br/>
+    </td>
+  </tr>
 </table>
-
-<sub>Areas of active growth — always learning, never claiming mastery prematurely.</sub>
 
 <br/>
 
@@ -604,29 +640,33 @@ Whether building institutional platforms, cloud-hosted SaaS tools, cybersecurity
 <br/>
 
 <!-- BEYOND CODE -->
+<div align="center">
+
 ## ◈ Beyond Code
 
+<sub>Engineering standards, continuous learning, and community involvement.</sub>
+
+</div>
+
+<br/>
+
 <table>
-<tr>
-<td width="50%" valign="top">
-
-When I'm not in the editor, you'll find me in **developer communities**, **hackathons**, and **AI experimentation** sessions — exploring what's next in web technology.
-
-I believe the best engineers are perpetual learners. Side projects, open-source exploration, and collaborative building keep my skills sharp and my perspective fresh.
-
-</td>
-<td width="50%" valign="top">
-
-**Outside the codebase**
-
-- Technology communities & meetups
-- Hackathons & build sprints
-- AI tooling experimentation
-- Open-source exploration
-- Learning in public
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Continuous Curiosity</h4>
+      <p><small>When I'm not in the editor, I'm participating in <b>developer communities</b>, building open-source side projects, and experimenting with emerging AI frameworks.</small></p>
+      <p><small>I believe the best developers never stop learning. Exploring new tech stacks and solving real-world challenges keeps my engineering standard high.</small></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Outside the Codebase</h4>
+      <ul>
+        <li>🚀 <b>Build Sprints &amp; Hackathons:</b> Rapid prototyping of product ideas</li>
+        <li>🤖 <b>AI Tooling Experimentation:</b> Building with LLMs &amp; AI Agents</li>
+        <li>🤝 <b>Open-Source Exploration:</b> Learning &amp; contributing in public</li>
+        <li>📚 <b>Public Knowledge Sharing:</b> Documenting builds &amp; tech insights</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 <br/>
@@ -646,22 +686,22 @@ I believe the best engineers are perpetual learners. Side projects, open-source 
 
 <br/>
 
-<a href="https://github.com/Rayan-Ali-Kayani" target="_blank" rel="noopener noreferrer">
+<a href="https://github.com/rayankiani" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/rayankayani/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://YOUR-PORTFOLIO-URL.com" target="_blank" rel="noopener noreferrer">
+<a href="https://rayankayani.vercel.app/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
-<a href="mailto:YOUR-EMAIL@example.com">
+<a href="mailto:rayankiani7@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rayan-Ali-Kayani&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile view counter" />
+<img src="https://komarev.com/ghpvc/?username=rayankiani&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile view counter" />
 
 </div>
 
