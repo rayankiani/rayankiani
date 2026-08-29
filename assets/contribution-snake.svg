@@ -8,7 +8,6 @@
     </text>
     <text x="930" y="0" text-anchor="end" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="12" fill="#58A6FF">
       ● 2026 Live Activity
-      <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
     </text>
   </g>
 
@@ -36,7 +35,7 @@
     <text x="0" y="72" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="11" fill="#8B949E">Fri</text>
   </g>
 
-  <!-- Simulated Contribution Grid (Matching user screenshot density) -->
+  <!-- Simulated Contribution Grid -->
   <g transform="translate(70, 70)">
     <!-- Row 0: Mon -->
     <rect x="0" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="15" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="30" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="45" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="60" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="75" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="90" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="105" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="120" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="135" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="150" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="165" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="180" y="0" width="11" height="11" rx="2" fill="#26A641"/><rect x="195" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="210" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="225" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="240" y="0" width="11" height="11" rx="2" fill="#0E4429"/><rect x="255" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="270" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="285" y="0" width="11" height="11" rx="2" fill="#006D32"/><rect x="300" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="315" y="0" width="11" height="11" rx="2" fill="#0E4429"/><rect x="330" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="345" y="0" width="11" height="11" rx="2" fill="#26A641"/><rect x="360" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="375" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="390" y="0" width="11" height="11" rx="2" fill="#26A641"/><rect x="405" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="420" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="435" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="450" y="0" width="11" height="11" rx="2" fill="#006D32"/><rect x="465" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="480" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="495" y="0" width="11" height="11" rx="2" fill="#26A641"/><rect x="510" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="525" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="540" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="555" y="0" width="11" height="11" rx="2" fill="#26A641"/><rect x="570" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="585" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="600" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="615" y="0" width="11" height="11" rx="2" fill="#26A641"/><rect x="630" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="645" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="660" y="0" width="11" height="11" rx="2" fill="#39D353"/><rect x="675" y="0" width="11" height="11" rx="2" fill="#26A641"/><rect x="690" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="705" y="0" width="11" height="11" rx="2" fill="#26A641"/><rect x="720" y="0" width="11" height="11" rx="2" fill="#39D353"/><rect x="735" y="0" width="11" height="11" rx="2" fill="#161B22"/><rect x="750" y="0" width="11" height="11" rx="2" fill="#26A641"/>
@@ -56,37 +55,14 @@
     <!-- Row 6: Sat -->
     <rect x="0" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="15" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="30" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="45" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="60" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="75" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="90" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="105" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="120" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="135" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="150" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="165" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="180" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="195" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="210" y="70" width="11" height="11" rx="2" fill="#0E4429"/><rect x="225" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="240" y="70" width="11" height="11" rx="2" fill="#006D32"/><rect x="255" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="270" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="285" y="70" width="11" height="11" rx="2" fill="#26A641"/><rect x="300" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="315" y="70" width="11" height="11" rx="2" fill="#006D32"/><rect x="330" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="345" y="70" width="11" height="11" rx="2" fill="#26A641"/><rect x="360" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="375" y="70" width="11" height="11" rx="2" fill="#39D353"/><rect x="390" y="70" width="11" height="11" rx="2" fill="#26A641"/><rect x="405" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="420" y="70" width="11" height="11" rx="2" fill="#006D32"/><rect x="435" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="450" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="465" y="70" width="11" height="11" rx="2" fill="#26A641"/><rect x="480" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="495" y="70" width="11" height="11" rx="2" fill="#39D353"/><rect x="510" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="525" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="540" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="555" y="70" width="11" height="11" rx="2" fill="#26A641"/><rect x="570" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="585" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="600" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="615" y="70" width="11" height="11" rx="2" fill="#006D32"/><rect x="630" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="645" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="660" y="70" width="11" height="11" rx="2" fill="#26A641"/><rect x="675" y="70" width="11" height="11" rx="2" fill="#39D353"/><rect x="690" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="705" y="70" width="11" height="11" rx="2" fill="#26A641"/><rect x="720" y="70" width="11" height="11" rx="2" fill="#39D353"/><rect x="735" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="750" y="70" width="11" height="11" rx="2" fill="#39D353"/>
 
-    <!-- ANIMATED SNAKE ELEMENT -->
-    <path id="snakePathReal" d="M60,28 L75,28 L75,42 L60,42 L60,56 L75,56 L75,70 L210,70 L210,28 L240,28 L240,70 L285,70 L285,14 L315,14 L315,70 L345,70 L345,14 L375,14 L375,70 L390,70 L390,14 L420,14 L420,70 L465,70 L465,14 L495,14 L495,70 L555,70 L555,14 L615,14 L615,70 L660,70 L660,14 L675,14 L675,70 L705,70 L705,14 L720,14 L720,70 L750,70 Z" fill="none"/>
-
-    <!-- Glowing Cyber Snake Head -->
-    <circle r="6" fill="#58A6FF">
-      <animateMotion dur="10s" repeatCount="indefinite">
-        <mpath href="#snakePathReal"/>
-      </animateMotion>
-    </circle>
-    <!-- Snake Body Segment 1 -->
-    <circle r="5" fill="#39D353" opacity="0.9">
-      <animateMotion dur="10s" repeatCount="indefinite" begin="-0.2s">
-        <mpath href="#snakePathReal"/>
-      </animateMotion>
-    </circle>
-    <!-- Snake Body Segment 2 -->
-    <circle r="4" fill="#26A641" opacity="0.7">
-      <animateMotion dur="10s" repeatCount="indefinite" begin="-0.4s">
-        <mpath href="#snakePathReal"/>
-      </animateMotion>
-    </circle>
-    <!-- Snake Body Segment 3 -->
-    <circle r="3" fill="#006D32" opacity="0.5">
-      <animateMotion dur="10s" repeatCount="indefinite" begin="-0.6s">
-        <mpath href="#snakePathReal"/>
-      </animateMotion>
-    </circle>
+    <!-- Cyber Snake Head & Glow Dots -->
+    <circle cx="755" cy="75" r="5" fill="#58A6FF"/>
+    <circle cx="740" cy="75" r="4" fill="#39D353"/>
+    <circle cx="725" cy="75" r="3" fill="#26A641"/>
   </g>
 
   <!-- Footer Legend Bar -->
-  <g transform="translate(30, 170)">
+  <g transform="translate(30, 175)">
     <text x="0" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="11" fill="#8B949E">Learn how we count contributions</text>
     <g transform="translate(730, 0)">
       <text x="0" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="11" fill="#8B949E">Less</text>

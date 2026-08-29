@@ -11,7 +11,7 @@
 <br/>
 
 <!-- DYNAMIC TYPING IDENTITY -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&height=40&lines=⚡+Architecting+modern+digital+experiences+where+code%2C+design+%26+AI+converge.;💎+Engineering+precision+%C2%B7+60fps+Motion+%C2%B7+Scalable+Architecture.;🚀+Building+high-performance+web+applications+with+React%2C+TypeScript+%26+Cloud." alt="Animated typing: Building modern digital experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=950&height=40&lines=Architecting+modern+digital+experiences+where+code%2C+design+%26+AI+converge.;Engineering+precision+with+typed+systems%2C+motion+%26+scalable+architecture.;Building+high-performance+web+applications+with+React%2C+TypeScript+%26+Cloud." alt="Animated typing: Building modern digital experiences" />
 
 <br/><br/>
 

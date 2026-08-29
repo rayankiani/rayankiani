@@ -2,10 +2,7 @@
   <rect x="0.5" y="0.5" rx="10" width="494" height="214" fill="#0D1117" stroke="#30363D"/>
 
   <g transform="translate(25, 35)">
-    <text x="0" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="18" fill="#58A6FF">
-      Most Used Languages &amp; Stack
-      <animate attributeName="fill" values="#58A6FF;#3FB950;#58A6FF" dur="6s" repeatCount="indefinite" />
-    </text>
+    <text x="0" y="0" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="18" fill="#58A6FF">Most Used Languages &amp; Stack</text>
   </g>
 
   <g transform="translate(25, 60)">
@@ -15,9 +12,7 @@
       <text x="20" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="13" fill="#C9D1D9">TypeScript</text>
       <text x="445" y="10" text-anchor="end" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12" fill="#8B949E">42%</text>
       <rect x="0" y="18" width="445" height="8" rx="4" fill="#21262D"/>
-      <rect x="0" y="18" width="187" height="8" rx="4" fill="#3178C6">
-        <animate attributeName="width" from="0" to="187" dur="1.2s" fill="freeze"/>
-      </rect>
+      <rect x="0" y="18" width="187" height="8" rx="4" fill="#3178C6"/>
     </g>
 
     <!-- React / JavaScript -->
@@ -26,9 +21,7 @@
       <text x="20" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="13" fill="#C9D1D9">JavaScript &amp; React</text>
       <text x="445" y="10" text-anchor="end" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12" fill="#8B949E">28%</text>
       <rect x="0" y="18" width="445" height="8" rx="4" fill="#21262D"/>
-      <rect x="0" y="18" width="124" height="8" rx="4" fill="#F7DF1E">
-        <animate attributeName="width" from="0" to="124" dur="1.4s" fill="freeze"/>
-      </rect>
+      <rect x="0" y="18" width="124" height="8" rx="4" fill="#F7DF1E"/>
     </g>
 
     <!-- HTML & CSS / Tailwind -->
@@ -37,9 +30,7 @@
       <text x="20" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="13" fill="#C9D1D9">HTML / CSS / Tailwind</text>
       <text x="445" y="10" text-anchor="end" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12" fill="#8B949E">18%</text>
       <rect x="0" y="18" width="445" height="8" rx="4" fill="#21262D"/>
-      <rect x="0" y="18" width="80" height="8" rx="4" fill="#E34C26">
-        <animate attributeName="width" from="0" to="80" dur="1.6s" fill="freeze"/>
-      </rect>
+      <rect x="0" y="18" width="80" height="8" rx="4" fill="#E34C26"/>
     </g>
 
     <!-- Node.js / Firebase -->
@@ -48,9 +39,7 @@
       <text x="20" y="10" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="13" fill="#C9D1D9">Node.js &amp; Backend Systems</text>
       <text x="445" y="10" text-anchor="end" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="12" fill="#8B949E">12%</text>
       <rect x="0" y="18" width="445" height="8" rx="4" fill="#21262D"/>
-      <rect x="0" y="18" width="54" height="8" rx="4" fill="#3572A5">
-        <animate attributeName="width" from="0" to="54" dur="1.8s" fill="freeze"/>
-      </rect>
+      <rect x="0" y="18" width="54" height="8" rx="4" fill="#3572A5"/>
     </g>
   </g>
 </svg>
