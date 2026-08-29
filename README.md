@@ -309,212 +309,77 @@ Whether building institutional platforms, cloud-hosted SaaS tools, cybersecurity
 <br/>
 
 <!-- ENGINEERING PRINCIPLES -->
+<div align="center">
+
 ## ◈ Engineering Principles
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<sub>Core tenets guiding every system architecture, UI layout, and line of code.</sub>
 
-### 01 — Design with Intent
-
-Every pixel, transition, and layout choice must answer a user need — not fill empty space.
-
-### 02 — Performance is Non-Negotiable
-
-A beautiful interface that loads slowly is a broken interface. Speed is part of the experience.
-
-### 03 — Accessibility by Default
-
-Inclusive design isn't a feature flag. Products should work for everyone, on every device.
-
-</td>
-<td width="50%" valign="top">
-
-### 04 — Simplicity at the Surface
-
-Complex systems should feel effortless. Hide the architecture; reveal the clarity.
-
-### 05 — Build for Tomorrow
-
-Write code and structure systems that can evolve — without rewriting everything to grow.
-
-### 06 — Ship, Learn, Refine
-
-Every project is a prototype for the next one. Iterate in public. Improve continuously.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-<!-- FEATURED PROJECTS -->
-## ◈ Featured Work
-
-<sub>Selected projects — each one a deliberate engineering decision.</sub>
+</div>
 
 <br/>
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### Global Degree College Peshawar
-<sub>Modern institutional web presence</sub>
-
-**What it is** — A responsive college website with structured information architecture and polished UI.
-
-**Problem solved** — Outdated, non-responsive institutional sites that fail on mobile and lack visual credibility.
-
-**Stack** — `React` `TypeScript` `Tailwind CSS` `Vite` `Framer Motion`
-
-**Engineering decision** — Component-driven architecture with motion applied selectively to guide attention, not distract.
-
-**Key feature** — Fluid responsive layouts with animated section transitions.
-
-<br/>
-
-[→ Live Demo](https://YOUR-GDC-DEMO-URL.com) · [→ Source](https://github.com/Rayan-Ali-Kayani/YOUR-GDC-REPO)
-
-</td>
-<td width="50%" valign="top">
-
-### Aurevia
-<sub>Full-stack restaurant experience</sub>
-
-**What it is** — End-to-end restaurant application with auth, data persistence, and media management.
-
-**Problem solved** — Fragmented restaurant tools with no unified digital ordering and management flow.
-
-**Stack** — `React` `Vite` `Firebase Auth` `Firestore` `Cloudinary` `Vercel`
-
-**Engineering decision** — Firebase for real-time data with Cloudinary for optimized media delivery.
-
-**Key feature** — Secure authentication with cloud-hosted, production-ready deployment.
-
-<br/>
-
-[→ Live Demo](https://YOUR-AUREVIA-URL.com) · [→ Source](https://github.com/Rayan-Ali-Kayani/YOUR-AUREVIA-REPO)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<br/>
-
-### CyberShield
-<sub>Cybersecurity awareness simulator</sub>
-
-**What it is** — Interactive simulator that teaches security concepts through hands-on scenarios.
-
-**Problem solved** — Abstract cybersecurity education that fails to engage or simulate real threats.
-
-**Stack** — `React` `Modern UI` `Interactive UX`
-
-**Engineering decision** — Scenario-based interaction design over static content delivery.
-
-**Key feature** — Immersive, educational user flows that make security tangible.
-
-<br/>
-
-[→ Live Demo](https://YOUR-CYBERSHIELD-URL.com) · [→ Source](https://github.com/Rayan-Ali-Kayani/YOUR-CYBERSHIELD-REPO)
-
-</td>
-<td width="50%" valign="top">
-
-<br/>
-
-### IRONPULSE GYM
-<sub>Interactive fitness brand site</sub>
-
-**What it is** — A high-energy gym website with motion-driven storytelling and modern aesthetics.
-
-**Problem solved** — Generic fitness websites with no personality or interactive engagement.
-
-**Stack** — `React` `GSAP` `Modern CSS`
-
-**Engineering decision** — GSAP timeline animations orchestrated for performance, not decoration.
-
-**Key feature** — Scroll-driven animations that reinforce brand energy.
-
-<br/>
-
-[→ Live Demo](https://YOUR-IRONPULSE-URL.com) · [→ Source](https://github.com/Rayan-Ali-Kayani/YOUR-IRONPULSE-REPO)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<br/>
-
-### WANDERLUST
-<sub>Travel agency platform</sub>
-
-**What it is** — A travel-focused website emphasizing visual storytelling and responsive design.
-
-**Problem solved** — Travel sites that prioritize imagery but sacrifice usability and mobile performance.
-
-**Stack** — `React` `Responsive UI` `Modern CSS`
-
-**Engineering decision** — Image-first layout with strict performance budgets on mobile.
-
-**Key feature** — Destination showcases with clean, conversion-oriented navigation.
-
-<br/>
-
-[→ Live Demo](https://YOUR-WANDERLUST-URL.com) · [→ Source](https://github.com/Rayan-Ali-Kayani/YOUR-WANDERLUST-REPO)
-
-</td>
-<td width="50%" valign="top">
-
-<br/>
-
-### SCRAMBLEX · QRcraft · Aurum
-
-<table>
-<tr>
-<td>
-
-**SCRAMBLEX**
-Interactive word-scramble game
-`React` · `Game Logic`
-
-[→ Source](https://github.com/Rayan-Ali-Kayani/YOUR-SCRAMBLEX-REPO)
-
-</td>
-</tr>
-<tr>
-<td>
-
-**QRcraft**
-QR code generation utility
-`React` · `Utility`
-
-[→ Source](https://github.com/Rayan-Ali-Kayani/YOUR-QRCRAFT-REPO)
-
-</td>
-</tr>
-<tr>
-<td>
-
-**Aurum**
-Expense tracker with analytics
-`React` · `Data Viz`
-
-[→ Source](https://github.com/Rayan-Ali-Kayani/YOUR-AURUM-REPO)
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/01-INTENT-58A6FF?style=for-the-badge&logo=figma&logoColor=white" alt="Design with Intent" />
+      <br/><br/>
+      <b>🎨 Design with Intent</b>
+      <br/><br/>
+      <small>Every pixel, transition, and layout choice must answer a direct user need — never filler, never decoration without function.</small>
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/02-PERFORMANCE-238636?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Performance Non-Negotiable" />
+      <br/><br/>
+      <b>⚡ Performance is Non-Negotiable</b>
+      <br/><br/>
+      <small>A beautiful interface that loads slowly is fundamentally broken. Instant load times and 60fps motion are baseline requirements.</small>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/03-ACCESSIBILITY-8E44AD?style=for-the-badge&logo=w3c&logoColor=white" alt="Accessibility by Default" />
+      <br/><br/>
+      <b>♿ Accessibility by Default</b>
+      <br/><br/>
+      <small>Inclusive engineering is not a feature flag. Digital experiences must remain accessible across all devices, screens, and inputs.</small>
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/04-SIMPLICITY-E67E22?style=for-the-badge&logo=clean-code&logoColor=white" alt="Simplicity at the Surface" />
+      <br/><br/>
+      <b>💎 Simplicity at the Surface</b>
+      <br/><br/>
+      <small>Complex underlying systems should feel completely effortless. Hide architectural weight; reveal intuitive product clarity.</small>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/05-SCALABILITY-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Build for Tomorrow" />
+      <br/><br/>
+      <b>🛠️ Build for Tomorrow</b>
+      <br/><br/>
+      <small>Architect modular systems and type-safe contracts that evolve gracefully as products grow — avoiding rewrite debt.</small>
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/06-ITERATION-D35400?style=for-the-badge&logo=git&logoColor=white" alt="Ship, Learn, Refine" />
+      <br/><br/>
+      <b>🚀 Ship, Learn, Refine</b>
+      <br/><br/>
+      <small>Software is never static. Ship to production, gather empirical telemetry, refine user flows, and continuously elevate standards.</small>
+      <br/><br/>
+    </td>
+  </tr>
 </table>
 
 <br/>
@@ -524,36 +389,71 @@ Expense tracker with analytics
 <br/>
 
 <!-- HOW I BUILD -->
-## ◈ How I Build
-
 <div align="center">
 
-```
-    IDEA
-      │
-      ▼
-  RESEARCH ──────► Understand the problem before touching the editor
-      │
-      ▼
- ARCHITECTURE ───► Structure systems that can grow without breaking
-      │
-      ▼
-   DESIGN ───────► Wire intent into layout, type, and interaction
-      │
-      ▼
-   BUILD ────────► Write clean, typed, component-driven code
-      │
-      ▼
-   TEST ─────────► Validate behavior, responsiveness, and edge cases
-      │
-      ▼
-  OPTIMIZE ─────► Measure, refine, and eliminate waste
-      │
-      ▼
-  DEPLOY ───────► Ship to production with confidence
-```
+## ◈ How I Build
 
-<sub>I value the entire product-development lifecycle — not just the commit.</sub>
+<sub>A disciplined, end-to-end product development methodology from initial concept to production delivery.</sub>
+
+<br/><br/>
+
+<table>
+  <tr>
+    <td align="center" width="14%">
+      <br/>
+      <b>01. IDEA</b><br/>
+      <sub>💡 Intent</sub><br/><br/>
+      <small>Define goal & user scope</small>
+      <br/><br/>
+    </td>
+    <td align="center" width="14%">
+      <br/>
+      <b>02. RESEARCH</b><br/>
+      <sub>🔍 Discovery</sub><br/><br/>
+      <small>Analyze spec & edge cases</small>
+      <br/><br/>
+    </td>
+    <td align="center" width="14%">
+      <br/>
+      <b>03. ARCHITECT</b><br/>
+      <sub>📐 Structure</sub><br/><br/>
+      <small>Design data & state model</small>
+      <br/><br/>
+    </td>
+    <td align="center" width="14%">
+      <br/>
+      <b>04. DESIGN</b><br/>
+      <sub>🎨 Visual UX</sub><br/><br/>
+      <small>Craft layout & micro-motion</small>
+      <br/><br/>
+    </td>
+    <td align="center" width="14%">
+      <br/>
+      <b>05. BUILD</b><br/>
+      <sub>⚡ Engineering</sub><br/><br/>
+      <small>Write typed, modular code</small>
+      <br/><br/>
+    </td>
+    <td align="center" width="14%">
+      <br/>
+      <b>06. TEST</b><br/>
+      <sub>🧪 Quality</sub><br/><br/>
+      <small>Audit FPS, Lighthouse & SEO</small>
+      <br/><br/>
+    </td>
+    <td align="center" width="14%">
+      <br/>
+      <b>07. DEPLOY</b><br/>
+      <sub>🚀 Production</sub><br/><br/>
+      <small>Ship to cloud & iterate</small>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+> ⚙️ *"I value the entire product lifecycle — engineering clarity from the initial wireframe to the final production commit."*
 
 </div>
 
