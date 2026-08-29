@@ -526,28 +526,32 @@ Whether building institutional platforms, cloud-hosted SaaS tools, cybersecurity
   <tr>
     <td width="50%" align="center" valign="middle">
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=Rayan-Ali-Kayani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=percentile" alt="GitHub Stats" width="100%" />
+      <img src="./assets/github-stats.svg" alt="GitHub Statistics — Rayan Ali Kayani" width="100%" />
       <br/><br/>
     </td>
     <td width="50%" align="center" valign="middle">
       <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayan-Ali-Kayani&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="100%" />
+      <img src="./assets/github-streak.svg" alt="GitHub Contribution Streak — Rayan Ali Kayani" width="100%" />
       <br/><br/>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="middle">
       <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Ali-Kayani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="100%" />
+      <img src="./assets/top-languages.svg" alt="Most Used Programming Languages" width="100%" />
       <br/><br/>
     </td>
     <td width="50%" align="center" valign="middle">
       <br/>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayan-Ali-Kayani&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true" alt="Activity Graph" width="100%" />
+      <img src="./assets/github-stats.svg" alt="Core Repositories & Contributions" width="100%" />
       <br/><br/>
     </td>
   </tr>
 </table>
+
+<br/>
+
+<img src="./assets/activity-graph.svg" alt="GitHub Contribution Activity Graph" width="100%" />
 
 </div>
 
