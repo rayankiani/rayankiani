@@ -52,216 +52,148 @@
 <br/>
 
 <!-- ABOUT -->
-## ◈ About
-
 <div align="center">
 
-<sub>Full-Stack Engineer · Creative Developer · AI Enthusiast · SEO Expert</sub>
+## ◈ About Me
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Peshawar%2C%20Pakistan-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Degree-BS%20Computer%20Science-58A6FF?style=for-the-badge&logo=degree&logoColor=white" alt="Education" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-238636?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Status" />
+</p>
 
 <br/>
 
-> **I don't assemble pages — I architect digital experiences** where engineering precision, visual craft, and intelligent systems operate as a single product surface.
+> 💡 **"I don't just assemble pages — I architect digital experiences"** where engineering precision, visual craft, motion, and intelligent AI systems operate as a single, fluid product surface.
+
+<br/>
+
+</div>
+
+### ⚡ Developer Snapshot & Core Domains
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>👤 Identity & Profile</h4>
+      <ul>
+        <li><b>Name:</b> Rayan Ali Kayani</li>
+        <li><b>Role:</b> Full-Stack Engineer & Creative Developer</li>
+        <li><b>Location:</b> Peshawar, Pakistan 🇵🇰</li>
+        <li><b>Education:</b> BS Computer Science</li>
+        <li><b>Specialization:</b> High-Performance Web, Interactive Motion & AI UX</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎯 Core Technical Focus</h4>
+      <ul>
+        <li><b>Frontend:</b> React · TypeScript · Tailwind CSS · Next.js</li>
+        <li><b>Backend & Cloud:</b> Node.js · Express · Firebase · REST APIs</li>
+        <li><b>Creative & Motion:</b> GSAP · Three.js · Micro-interactions</li>
+        <li><b>AI & Systems:</b> Generative AI · Agentic UX · LLM Integration</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🛠️ What I Do (Core Pillars)
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/01-FRONTEND-58A6FF?style=for-the-badge&logo=react&logoColor=white" alt="Frontend Architecture" />
+      <br/><br/>
+      <b>Frontend Architecture</b>
+      <br/><br/>
+      <p align="left"><small>Crafting modular, component-driven UIs with <b>React</b>, <b>TypeScript</b>, and <b>Tailwind</b> — where layout, typography, and state scale effortlessly.</small></p>
+      <hr/>
+      <sub><code>Responsive</code> <code>Accessible</code> <code>Modern UX</code></sub>
+      <br/><br/>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/02-FULLSTACK-238636?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Full-Stack Infrastructure" />
+      <br/><br/>
+      <b>Full-Stack Infrastructure</b>
+      <br/><br/>
+      <p align="left"><small>Architecting end-to-end cloud platforms with <b>Node.js</b>, <b>Firebase</b>, and cloud deployments — real-time data, authentication, and secure delivery.</small></p>
+      <hr/>
+      <sub><code>Auth</code> <code>Firestore</code> <code>APIs</code> <code>Cloud</code></sub>
+      <br/><br/>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/03-CREATIVE%20%26%20AI-8E44AD?style=for-the-badge&logo=openai&logoColor=white" alt="Creative & AI Innovation" />
+      <br/><br/>
+      <b>Creative & AI Innovation</b>
+      <br/><br/>
+      <p align="left"><small>Building interactive, living interfaces using <b>GSAP</b>, <b>Three.js</b>, and <b>LLM integrations</b> — transforming static websites into dynamic apps.</small></p>
+      <hr/>
+      <sub><code>Motion</code> <code>3D</code> <code>Agentic AI</code> <code>LLMs</code></sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 💡 How I Think (Engineering Philosophy)
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🎯 Product Over Pixels</b><br/>
+      <small>Every interface feature exists to solve a real user problem. I start with user intent and user flow before writing code.</small>
+    </td>
+    <td width="50%" valign="top">
+      <b>💎 Craft Over Complexity</b><br/>
+      <small>Clean modular architecture, strictly typed contracts, and intuitive UI patterns. Great engineering feels effortless.</small>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br/>
+      <b>⚡ Performance as Design</b><br/>
+      <small>Speed is an essential UI feature. Instant load times, 60fps animations, and zero interaction lag elevate every product.</small>
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <b>🔍 SEO & Accessibility Native</b><br/>
+      <small>Semantic HTML5, ARIA compliance, metadata, and search engine discoverability engineered from day one.</small>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🚀 Execution Lifecycle
+
+<div align="center">
+
+| Phase | 01. DESIGN | 02. ENGINEER | 03. ANIMATE | 04. INTEGRATE | 05. SHIP |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **Focus** | Intent & Hierarchy | Scalable & Typed Code | Motion with Purpose | AI & Cloud Native | Deploy & Optimize |
+| **Tooling** | Figma · Grid Systems | React · TypeScript | GSAP · Framer Motion | Firebase · OpenAI APIs | Vercel · Lighthouse |
 
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td width="62%" valign="top">
-
-### What I Do
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**Frontend Engineering**
-
-Crafting component-driven interfaces with **React**, **TypeScript**, and **Tailwind** — where layout, typography, and motion are engineered, not decorated.
-
-<br/>
-
-<sub>`Responsive` `Accessible` `Performance-first`</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**Full-Stack Systems**
-
-Building end-to-end applications with **Firebase**, **Node.js**, and cloud deployments — from authentication and data layers to production-ready delivery.
-
-<br/>
-
-<sub>`Auth` `Firestore` `Vercel` `Cloud Run`</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**Creative & AI**
-
-Designing interactive experiences with **GSAP**, **Three.js**, and **LLM integrations** — interfaces that feel alive, intelligent, and intentional.
-
-<br/>
-
-<sub>`Motion` `3D` `Generative AI` `Agentic UX`</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### How I Think
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Product over pixels**
-
-Every screen should solve a problem. I start with user intent, map the flow, then write the code — not the other way around.
-
-</td>
-<td width="50%" valign="top">
-
-**Craft over complexity**
-
-Clean architecture, typed systems, and deliberate UI decisions. The best engineering disappears behind a seamless experience.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<br/>
-
-**Performance as design**
-
-Speed is not a backend concern alone. Load time, interaction latency, and render efficiency are part of the interface itself.
-
-</td>
-<td width="50%" valign="top">
-
-<br/>
-
-**SEO as engineering**
-
-Discoverability belongs in the build — semantic structure, metadata, performance, and accessible markup from the first commit.
-
-</td>
-</tr>
-</table>
-
-</td>
-<td width="38%" valign="top">
-
-<br/>
-
-<table>
-<tr>
-<td>
-
-**Developer Identity**
-
-<br/><br/>
-
-```
-┌─ profile ─────────────────┐
-│                           │
-│  Rayan Ali Kayani         │
-│  Full-Stack Developer     │
-│                           │
-│  LOC  Peshawar, Pakistan  │
-│  EDU  BS Computer Science │
-│                           │
-└───────────────────────────┘
-```
-
-<br/>
-
-**Core Domains**
-
-| Domain | Focus |
-|:-------|:------|
-| Frontend | React · TypeScript · UI/UX |
-| Backend | Node.js · Firebase · Express |
-| Creative | GSAP · Motion · 3D |
-| AI | LLMs · Agentic workflows |
-| Cloud | Vercel · GCP · Docker |
-
-<br/>
-
-**Currently**
-
-Building modern web products, exploring AI integration, and refining how interfaces feel under real-world use.
-
-<br/>
-
-**Open to**
-
-Collaborations · Freelance projects · Interesting product ideas
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- DISCIPLINE STRIP -->
-<table>
-<tr>
-<td align="center" width="20%">
-<br/>
-<b>01</b><br/>
-<sub>DESIGN</sub><br/><br/>
-<small>Intent-driven UI & visual hierarchy</small><br/><br/>
-</td>
-<td align="center" width="20%">
-<br/>
-<b>02</b><br/>
-<sub>ENGINEER</sub><br/><br/>
-<small>Typed, scalable, maintainable code</small><br/><br/>
-</td>
-<td align="center" width="20%">
-<br/>
-<b>03</b><br/>
-<sub>ANIMATE</sub><br/><br/>
-<small>Motion with purpose, not noise</small><br/><br/>
-</td>
-<td align="center" width="20%">
-<br/>
-<b>04</b><br/>
-<sub>INTEGRATE</sub><br/><br/>
-<small>AI & cloud-native capabilities</small><br/><br/>
-</td>
-<td align="center" width="20%">
-<br/>
-<b>05</b><br/>
-<sub>SHIP</sub><br/><br/>
-<small>Deploy, measure, iterate</small><br/><br/>
-</td>
-</tr>
-</table>
-
-<br/>
-
 <details>
-<summary><b>↳ Read the full story</b></summary>
+<summary><b>📖 Read My Story & Background</b></summary>
 
 <br/>
 
-My path in development is shaped by a simple conviction: **the web should feel as refined as the best software products** — fast, intuitive, visually considered, and built to last.
+My journey in software engineering is driven by a strong core belief: **web applications should feel as fluid, refined, and powerful as native desktop software** — fast, intuitive, visually stunning, and built for scale.
 
-I work across the full stack, but my instinct lives on the frontend. That's where users meet the product. That's where milliseconds, micro-interactions, and layout decisions determine whether something feels premium or forgettable.
+While I engineer complete full-stack systems, my true passion lies on the frontend. That is where users interact with code. Every millisecond of latency, every animation easing, and every layout detail determines whether an application feels exceptional or ordinary.
 
-I'm equally drawn to **AI-powered interfaces** — not as hype, but as a new layer of product capability. From LLM-assisted workflows to intelligent UX patterns, I explore how modern AI can make applications more useful without making them more complicated.
+I am also actively pioneering **AI-powered interface design** — integrating intelligent LLM workflows, context-aware user interfaces, and dynamic agents directly into web products.
 
-Whether it's a college platform, a restaurant system, a cybersecurity simulator, or a creative side project — I approach every build with the same standard: **clarity in code, intention in design, and respect for the person on the other side of the screen.**
+Whether building institutional platforms, cloud-hosted SaaS tools, cybersecurity simulators, or interactive brand experiences — I uphold the highest standard: **clean code, intentional visual design, and uncompromising user experience.**
 
 <br/>
 
