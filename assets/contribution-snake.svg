@@ -7,7 +7,7 @@
       151 contributions in the last year
     </text>
     <text x="930" y="0" text-anchor="end" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="600" font-size="12" fill="#58A6FF">
-      ● 2026 Live Activity
+      ● 2026 Live Snake Activity
     </text>
   </g>
 
@@ -55,10 +55,45 @@
     <!-- Row 6: Sat -->
     <rect x="0" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="15" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="30" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="45" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="60" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="75" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="90" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="105" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="120" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="135" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="150" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="165" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="180" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="195" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="210" y="70" width="11" height="11" rx="2" fill="#0E4429"/><rect x="225" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="240" y="70" width="11" height="11" rx="2" fill="#006D32"/><rect x="255" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="270" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="285" y="70" width="11" height="11" rx="2" fill="#26A641"/><rect x="300" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="315" y="70" width="11" height="11" rx="2" fill="#006D32"/><rect x="330" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="345" y="70" width="11" height="11" rx="2" fill="#26A641"/><rect x="360" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="375" y="70" width="11" height="11" rx="2" fill="#39D353"/><rect x="390" y="70" width="11" height="11" rx="2" fill="#26A641"/><rect x="405" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="420" y="70" width="11" height="11" rx="2" fill="#006D32"/><rect x="435" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="450" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="465" y="70" width="11" height="11" rx="2" fill="#26A641"/><rect x="480" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="495" y="70" width="11" height="11" rx="2" fill="#39D353"/><rect x="510" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="525" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="540" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="555" y="70" width="11" height="11" rx="2" fill="#26A641"/><rect x="570" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="585" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="600" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="615" y="70" width="11" height="11" rx="2" fill="#006D32"/><rect x="630" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="645" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="660" y="70" width="11" height="11" rx="2" fill="#26A641"/><rect x="675" y="70" width="11" height="11" rx="2" fill="#39D353"/><rect x="690" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="705" y="70" width="11" height="11" rx="2" fill="#26A641"/><rect x="720" y="70" width="11" height="11" rx="2" fill="#39D353"/><rect x="735" y="70" width="11" height="11" rx="2" fill="#161B22"/><rect x="750" y="70" width="11" height="11" rx="2" fill="#39D353"/>
 
-    <!-- Cyber Snake Head & Glow Dots -->
-    <circle cx="755" cy="75" r="5" fill="#58A6FF"/>
-    <circle cx="740" cy="75" r="4" fill="#39D353"/>
-    <circle cx="725" cy="75" r="3" fill="#26A641"/>
+    <!-- ANIMATED SNAKE MOTION -->
+    <path id="snakePath" d="M 65 20 L 755 20 L 755 35 L 65 35 L 65 50 L 755 50 L 755 65 L 65 65 L 65 75 L 755 75 Z" fill="none" stroke="none" />
+
+    <g>
+      <!-- Snake Head -->
+      <circle r="6" fill="#58A6FF" stroke="#FFFFFF" stroke-width="1.5">
+        <animateMotion dur="12s" repeatCount="indefinite" rotate="auto">
+          <mpath href="#snakePath" />
+        </animateMotion>
+      </circle>
+
+      <!-- Snake Body 1 -->
+      <circle r="4.5" fill="#39D353" opacity="0.9">
+        <animateMotion dur="12s" repeatCount="indefinite" rotate="auto" begin="-0.12s">
+          <mpath href="#snakePath" />
+        </animateMotion>
+      </circle>
+
+      <!-- Snake Body 2 -->
+      <circle r="4" fill="#26A641" opacity="0.8">
+        <animateMotion dur="12s" repeatCount="indefinite" rotate="auto" begin="-0.24s">
+          <mpath href="#snakePath" />
+        </animateMotion>
+      </circle>
+
+      <!-- Snake Body 3 -->
+      <circle r="3.5" fill="#006D32" opacity="0.7">
+        <animateMotion dur="12s" repeatCount="indefinite" rotate="auto" begin="-0.36s">
+          <mpath href="#snakePath" />
+        </animateMotion>
+      </circle>
+
+      <!-- Snake Tail -->
+      <circle r="2.5" fill="#0E4429" opacity="0.5">
+        <animateMotion dur="12s" repeatCount="indefinite" rotate="auto" begin="-0.48s">
+          <mpath href="#snakePath" />
+        </animateMotion>
+      </circle>
+    </g>
   </g>
 
   <!-- Footer Legend Bar -->
