@@ -464,40 +464,40 @@ Whether building institutional platforms, cloud-hosted SaaS tools, cybersecurity
 <br/>
 
 <!-- TERMINAL SECTION -->
-## ◈ Terminal
+<div align="center">
 
-<details open>
-<summary><b>$ cat ~/.rayan/profile.json</b></summary>
+## ◈ Developer Console
+
+<sub>Real-time system telemetry and environment configuration.</sub>
+
+</div>
 
 <br/>
 
-```bash
-$ whoami
-Rayan Ali Kayani
+<table>
+  <tr>
+    <td bgcolor="#0d1117">
+      <p align="left">
+        &nbsp; 🔴 &nbsp; 🟡 &nbsp; 🟢 &nbsp;&nbsp; <code><b>rayan@macbook-pro</b>: <b>~/.rayan</b> (zsh)</code>
+      </p>
+      <hr/>
+      <pre><code><font color="#58A6FF">$ whoami</font>
+<font color="#3FB950">❯ Rayan Ali Kayani</font> [Full-Stack Engineer & Creative Developer]
 
-$ role
-Full-Stack Developer
+<font color="#58A6FF">$ systeminfo --focus</font>
+├── <font color="#D29922">Frontend Architecture</font> : React · TypeScript · Tailwind · Next.js
+├── <font color="#D29922">Backend & Cloud</font>      : Node.js · Express · Firebase · REST APIs
+├── <font color="#D29922">Creative & Motion</font>    : GSAP · Three.js · Micro-interactions
+└── <font color="#D29922">AI Integration</font>       : LLMs · Generative UX · Agentic Workflows
 
-$ focus
-├── Full-Stack Engineering
-├── Creative Development
-├── AI Integration
-└── Frontend Architecture
+<font color="#58A6FF">$ cat philosophy.txt</font>
+<font color="#8957E5">"Architect digital products where engineering precision and visual craft converge."</font>
 
-$ philosophy
-"Build experiences. Solve problems. Keep learning."
-
-$ status
-Currently accepting interesting projects and collaborations.
-
-$ connect --all
-→ github.com/Rayan-Ali-Kayani
-→ linkedin.com/in/YOUR-LINKEDIN-USERNAME
-→ YOUR-PORTFOLIO-URL.com
-→ YOUR-EMAIL@example.com
-```
-
-</details>
+<font color="#58A6FF">$ status --availability</font>
+<font color="#3FB950">● Active</font> — Open for high-impact engineering roles, freelance projects & AI collaborations.</code></pre>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -506,23 +506,48 @@ $ connect --all
 <br/>
 
 <!-- GITHUB ACTIVITY -->
-## ◈ Building in Public
-
 <div align="center">
 
-<sub>Every contribution is another experiment, another problem solved, or another idea turned into code.</sub>
+## ◈ Building in Public
+
+<sub>Every commit is an experiment, a solved problem, or an idea turned into production code.</sub>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rayan-Ali-Kayani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=percentile" alt="GitHub statistics for Rayan-Ali-Kayani" height="165" />
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayan-Ali-Kayani&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub contribution streak for Rayan-Ali-Kayani" height="165" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Commit_Streak-Active-238636?style=for-the-badge&logo=git&logoColor=white" alt="Streak" />
+  <img src="https://img.shields.io/badge/Code_Quality-High_Standard-8E44AD?style=for-the-badge&logo=codefactor&logoColor=white" alt="Code Quality" />
+</p>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Ali-Kayani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" alt="Most used programming languages" width="48%" />
-&nbsp;
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayan-Ali-Kayani&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true" alt="GitHub contribution activity graph" width="48%" />
+<table>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Rayan-Ali-Kayani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=percentile" alt="GitHub Stats" width="100%" />
+      <br/><br/>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rayan-Ali-Kayani&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="100%" />
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Ali-Kayani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="100%" />
+      <br/><br/>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <br/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayan-Ali-Kayani&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true" alt="Activity Graph" width="100%" />
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
