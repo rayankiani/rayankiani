@@ -5,8 +5,8 @@
 
 <div align="center">
 
-<!-- ANIMATED HERO BANNER -->
-<img src="./assets/hero-banner.svg" alt="Rayan Ali Kayani — Full-Stack Engineer, Creative Developer, AI Pioneer" width="100%" />
+<!-- HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a1628,100:0d2137&height=280&section=header&text=RAYAN%20ALI%20KAYANI&fontSize=42&fontColor=e6edf3&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20Creative%20Developer%20%C2%B7%20AI%20Pioneer&descSize=16&descAlignY=58&descAlign=50" alt="Rayan Ali Kayani — Full-Stack Engineer, Creative Developer, AI Pioneer" width="100%" />
 
 <br/>
 
