@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 220" width="920" height="220" role="img" aria-label="Terminal hero for Rayan Ali Kayani">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="50%" stop-color="#0a1628"/>
+      <stop offset="100%" stop-color="#0d2137"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#58A6FF" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#58A6FF" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#58A6FF" stroke-opacity="0.04" stroke-width="0.5"/>
+    </pattern>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMergeNode>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="920" height="220" rx="12" fill="url(#bg)"/>
+  <rect width="920" height="220" rx="12" fill="url(#grid)"/>
+  <rect width="920" height="80" rx="12" fill="url(#glow)"/>
+
+  <!-- Window chrome -->
+  <rect x="1" y="1" width="918" height="218" rx="11" fill="none" stroke="#30363d" stroke-width="1"/>
+  <circle cx="24" cy="20" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="20" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="20" r="6" fill="#28c840"/>
+  <text x="88" y="25" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="11" fill="#8b949e">~/rayan  zsh</text>
+
+  <!-- Accent line -->
+  <rect x="0" y="38" width="920" height="1" fill="#21262d"/>
+  <rect x="40" y="38" width="200" height="1" fill="url(#accent)"/>
+
+  <!-- Neural network nodes (subtle) -->
+  <circle cx="780" cy="60" r="3" fill="#58A6FF" opacity="0.3"/>
+  <circle cx="820" cy="90" r="2" fill="#58A6FF" opacity="0.2"/>
+  <circle cx="860" cy="70" r="2.5" fill="#58A6FF" opacity="0.25"/>
+  <circle cx="800" cy="130" r="2" fill="#58A6FF" opacity="0.15"/>
+  <line x1="780" y1="60" x2="820" y2="90" stroke="#58A6FF" stroke-opacity="0.1" stroke-width="0.5"/>
+  <line x1="820" y1="90" x2="860" y2="70" stroke="#58A6FF" stroke-opacity="0.1" stroke-width="0.5"/>
+  <line x1="820" y1="90" x2="800" y2="130" stroke="#58A6FF" stroke-opacity="0.08" stroke-width="0.5"/>
+
+  <!-- Code fragment (background) -->
+  <text x="680" y="170" font-family="'JetBrains Mono', monospace" font-size="10" fill="#58A6FF" opacity="0.06">&lt;Experience /&gt;</text>
+  <text x="720" y="190" font-family="'JetBrains Mono', monospace" font-size="10" fill="#58A6FF" opacity="0.04">const build = () =&gt; craft;</text>
+
+  <!-- Prompt -->
+  <text x="32" y="72" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13" fill="#3fb950">$</text>
+  <text x="48" y="72" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13" fill="#8b949e">whoami</text>
+
+  <!-- Name -->
+  <text x="32" y="108" font-family="'Segoe UI', system-ui, sans-serif" font-size="28" font-weight="700" fill="#e6edf3" filter="url(#softGlow)">RAYAN ALI KAYANI</text>
+
+  <!-- Title -->
+  <text x="32" y="136" font-family="'JetBrains Mono', monospace" font-size="12" fill="#58A6FF">Full-Stack Engineer</text>
+  <text x="200" y="136" font-family="'JetBrains Mono', monospace" font-size="12" fill="#484f58">·</text>
+  <text x="214" y="136" font-family="'JetBrains Mono', monospace" font-size="12" fill="#58A6FF">Creative Developer</text>
+  <text x="390" y="136" font-family="'JetBrains Mono', monospace" font-size="12" fill="#484f58">·</text>
+  <text x="404" y="136" font-family="'JetBrains Mono', monospace" font-size="12" fill="#58A6FF">AI Enthusiast</text>
+
+  <!-- Tagline -->
+  <text x="32" y="168" font-family="'Segoe UI', system-ui, sans-serif" font-size="13" fill="#8b949e" font-style="italic">Designing interfaces. Engineering experiences. Evolving with AI.</text>
+
+  <!-- Tech stack -->
+  <rect x="32" y="180" width="56" height="20" rx="4" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <text x="42" y="194" font-family="'JetBrains Mono', monospace" font-size="10" fill="#c9d1d9">React</text>
+  <rect x="96" y="180" width="72" height="20" rx="4" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <text x="106" y="194" font-family="'JetBrains Mono', monospace" font-size="10" fill="#c9d1d9">TypeScript</text>
+  <rect x="176" y="180" width="58" height="20" rx="4" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <text x="186" y="194" font-family="'JetBrains Mono', monospace" font-size="10" fill="#c9d1d9">Tailwind</text>
+  <rect x="242" y="180" width="62" height="20" rx="4" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <text x="252" y="194" font-family="'JetBrains Mono', monospace" font-size="10" fill="#c9d1d9">Firebase</text>
+  <rect x="312" y="180" width="56" height="20" rx="4" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+  <text x="322" y="194" font-family="'JetBrains Mono', monospace" font-size="10" fill="#c9d1d9">Node.js</text>
+
+  <!-- Cursor blink -->
+  <rect x="382" y="182" width="8" height="16" rx="1" fill="#58A6FF" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0;0.8" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
