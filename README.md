@@ -14,21 +14,7 @@
 <br/><br/>
 
 <!-- TERMINAL HERO -->
-<img src="https://raw.githubusercontent.com/Rayan-Ali-Kayani/Rayan-Ali-Kayani/main/assets/terminal-hero.svg" alt="Terminal interface showing developer identity and focus areas" width="92%" onerror="this.style.display='none'" />
-
-<!-- FALLBACK TERMINAL (renders if SVG asset not yet uploaded) -->
-<pre align="left">
-┌─ <b>~/rayan</b> ─────────────────────────────────────────────────────────────┐
-│                                                                              │
-│  <b>RAYAN ALI KAYANI</b>                                                       │
-│  <code>Full-Stack Engineer</code>  ·  <code>Creative Developer</code>  ·  <code>AI Enthusiast</code>   │
-│                                                                              │
-│  <i>Designing interfaces. Engineering experiences. Evolving with AI.</i>      │
-│                                                                              │
-│  <code>React</code>  ·  <code>TypeScript</code>  ·  <code>Tailwind</code>  ·  <code>Firebase</code>  ·  <code>Node.js</code>  │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-</pre>
+<img src="./assets/terminal-hero.png" alt="Terminal interface showing developer identity and focus areas" width="92%" />
 
 <br/>
 
